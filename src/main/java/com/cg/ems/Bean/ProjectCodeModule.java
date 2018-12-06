@@ -12,12 +12,6 @@ import javax.persistence.NamedQuery;
 import javax.persistence.SequenceGenerator;
 import javax.validation.constraints.NotNull;
 
-
-
-
-
-
-
 @Entity(name="ProjectCode")
 public class ProjectCodeModule {
 	
